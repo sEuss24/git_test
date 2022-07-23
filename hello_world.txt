@@ -2,3 +2,4 @@ Hello, World!
 How are you doing?
 hi
 I am going to commit this to GitHub :)
+I addded to this file.
